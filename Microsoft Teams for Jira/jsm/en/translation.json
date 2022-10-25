@@ -1,75 +1,75 @@
 {
-    "general": {
-        "create": "Create",
-        "cancel": "Cancel",
-        "remove": "Remove",
-        "loadMore": "Load more",
-        "learnMore": "Learn more",
-        "showMore": "Show more",
-        "showFewer": "Show fewer",
-        "decline": "Decline",
-        "approve": "Approve"
+    "general": { Główny
+        "create": "Create", Stwórz
+        "cancel": "Cancel", Anuluj
+        "remove": "Remove", Usuń
+        "loadMore": "Load more", Dodaj więcej
+        "learnMore": "Learn more", Dowiedz się więcej
+        "showMore": "Show more", Pokaż więcej
+        "showFewer": "Show fewer", Pokaż mniej
+        "decline": "Decline", Odrzuć
+        "approve": "Approve" Zaakceptowane
     },
     "error": {
-        "microsoftLogin": "Could not verify Microsoft login. Please refresh and try again.",
-        "createIssue": "Couldn't create issue, please check fields!",
-        "fileUpload": "Some of your files appear to be invalid.",
-        "noUserFound": "A user with email address {{email}} was not found in this service portal."
+        "microsoftLogin": "Could not verify Microsoft login. Please refresh and try again.", Nie można zweryfikować logowania Microsoft. Odswież stronę i spróbuj ponownie
+        "createIssue": "Couldn't create issue, please check fields!", Nie mozna stworzyć zgłoszenia, sprawdź pola!
+        "fileUpload": "Some of your files appear to be invalid.", Niektóre twoje pliki są niewłaściwe.
+        "noUserFound": "A user with email address {{email}} was not found in this service portal."Użytkownik o takim adresie email {{email}} nie został znaleziony na tym portalu
     },
-    "search": {
-        "placeholder": "Search for common issues..",
-        "noResultsFor": "No results found for '{{query}}'.",
-        "articles": "Articles",
-        "requestTypes": "Send a request about"
+    "search": { Szukaj
+        "placeholder": "Search for common issues..", Szukaj częstych problemów
+        "noResultsFor": "No results found for '{{query}}'.", Nie znaleziono wyników dla '{{query}}'
+        "articles": "Articles", Artykuły
+        "requestTypes": "Send a request about" Wyślij zapytanie o 
     },
-    "chooseDesk": {
-        "heading": "Choose a service desk",
-        "subHeading": "Welcome! Choose a service desk and raise your support request.",
-        "typeChooserPlaceholder": "Select a service desk"
+    "chooseDesk": { wybierz pulpit
+        "heading": "Choose a service desk", Wybierz punkt obsługi
+        "subHeading": "Welcome! Choose a service desk and raise your support request.", Wybierz punkt obsługi i zgłoś swoje żądnie wsparcia
+        "typeChooserPlaceholder": "Select a service desk" Wybierz punkt obsługi
     },
-    "welcomeChooseInfo": "Welcome! Raise a service request for {{serviceDeskName}} from the options provided.",
+    "welcomeChooseInfo": "Welcome! Raise a service request for {{serviceDeskName}} from the options provided.", Witamy! Wyślij zgłoszenie serwisowe dla {{serviceDeskName}} korzystając z dostępnych opcji
     "createTicket": {
-        "typeChooserLabel": "What can we help you with?",
-        "submitSuccess": "Your request {{issueKey}} has been submitted."
+        "typeChooserLabel": "What can we help you with?", W czym możemy Ci pomóc?
+        "submitSuccess": "Your request {{issueKey}} has been submitted." Twój wniosek {{issueKey}} został złożony.
     },
     "fieldErrorBoundary": {
-        "errorMessage": "This field has crashed.",
-        "reportInstruction": "Send feedback"
+        "errorMessage": "This field has crashed.", To pole uległo awarii
+        "reportInstruction": "Send feedback" Wyślij informację zwrotną
     },
     "jiraUserContextMenu": {
-        "openJira": "Open Jira"
+        "openJira": "Open Jira" Otwórz Jira
     },
     "suggestions": {
-        "heading": "Suggested articles"
-    },
+        "heading": "Suggested articles" Proponowane artykuły
+    }, 
     "fields": {
-        "dropzoneHelptext": "Drop files or click to select",
-        "userFieldLoading": "Loading users ...",
-        "userFieldPlaceholder": "Select a user",
-        "userFieldNoResults": "We couldn't find a matching user."
+        "dropzoneHelptext": "Drop files or click to select", PRzeciągnij plik tutaj lub kliknij, aby wybrać
+        "userFieldLoading": "Loading users ...", Ładowanie użytkowników ...
+        "userFieldPlaceholder": "Select a user", Wybierz użytkownika
+        "userFieldNoResults": "We couldn't find a matching user." Nie udało się znaleźć pasującego użytkownika.
     },
     "myRequests": {
-        "heading": "My requests",
-        "newRequest": "New request",
+        "heading": "My requests", Moje wnioski
+        "newRequest": "New request", Nowy wniosek
         "tableHeader": {
-            "type": "Type",
-            "reference": "Reference",
-            "summary": "Summary",
-            "status": "Status",
-            "serviceProject": "Service project"
+            "type": "Type",Typ 
+            "reference": "Reference", Odnośnik
+            "summary": "Summary", Reference
+            "status": "Status", Status
+            "serviceProject": "Service project" Projekt usługowy
         },
-        "noSummary": "No summary",
-        "activity": "Activity",
-        "editorPlaceholder": "What do you want to say?",
-        "requestType": "Request type",
-        "status": "Status",
-        "viewInJira": "View in Jira",
-        "viewMoreInJira": "View more in Jira",
-        "showMore": "Show {{amount}} more",
-        "raisedThis": "raised this",
-        "relatedChats": "Related chats",
-        "optionalComment": "Optional comment",
-        "attachmentsNotice": "See attachments below",
-        "approvalRequired": "This request requires your approval"
+        "noSummary": "No summary", brak podsumowania
+        "activity": "Activity", Działanie
+        "editorPlaceholder": "What do you want to say?", Co chcesz powiedzieć?
+        "requestType": "Request type", Rodzaj wniosku
+        "status": "Status", Status
+        "viewInJira": "View in Jira", Zobacz w aplikacji Jira
+        "viewMoreInJira": "View more in Jira", Zobacz więcej w aplikacji Jira
+        "showMore": "Show {{amount}} more", Pokaż {{amount) więcej
+        "raisedThis": "raised this", podnieś to 
+        "relatedChats": "Related chats", Powiązane czaty
+        "optionalComment": "Optional comment", Komentarz opcjonalny
+        "attachmentsNotice": "See attachments below", Patrz załączniki poniżej
+        "approvalRequired": "This request requires your approval" Ta prośba wymaga Twojej zgody
     }
 }
